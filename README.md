@@ -1,6 +1,6 @@
 ## Olá, meu nome é Victor 👋
 
-Tenho 18 anos, atualmente cursando o 3° ano do Ensino médio e aluno do programa [FavelaWare](https://favelaware.animahub.com.br/home), estou em constante aprendizado, com o propósito de futuramente me tornar um desenvolvedor de software. 
+Tenho 18 anos e sou aluno do programa [FavelaWare](https://favelaware.animahub.com.br/home), estou em constante aprendizado, com o propósito de futuramente me tornar um desenvolvedor de software. 
 
 Tenho noções basicas de computador, como conhecimento sobre Hardware, Software, além de conceitos como Sistema Operacional e o funcionamento de ambos.
 
