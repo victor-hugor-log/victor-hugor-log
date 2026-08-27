@@ -1,7 +1,5 @@
 ## Olá, meu nome é Victor 👋
 
-# 👋 Olá! Eu sou o Vitão
-
 🎓 Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e sigo evoluindo meus conhecimentos na área de tecnologia e desenvolvimento de software.
 
 💻 Minha jornada na programação ganhou força através do **FavelaWare**, onde tive contato prático com desenvolvimento web e ferramentas utilizadas no dia a dia de um desenvolvedor.
@@ -44,36 +42,16 @@ Meu objetivo é continuar evoluindo como desenvolvedor, aprofundar meus conhecim
 
 ### 👨‍💻 Linguagens e Ferramentas
 
-<div style="display: inline_block"><br>
-
-<img align="center" alt="HTML" title="HTML5" width="50px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-<img align="center" alt="CSS" title="CSS3" width="50px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-<img align="center" alt="JavaScript" title="JavaScript" width="50px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img align="center" alt="Node.js" title="Node.js" width="50px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-
-<img align="center" alt="Express" title="Express.js" width="50px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-
-<img align="center" alt="MySQL" title="MySQL" width="50px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-<img align="center" alt="Git" title="Git" width="50px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<img align="center" alt="GitHub" title="GitHub" width="50px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-
-<img align="center" alt="VS Code" title="Visual Studio Code" width="50px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
+<div>
+  <img alt="HTML" title="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Node.js" title="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="Express" title="Express.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img alt="MySQL" title="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="VS Code" title="VS Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
-
 
            
